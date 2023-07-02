@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBoot4Application {
 
+	// hello this from github ahahaha
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBoot4Application.class, args);
 	}
